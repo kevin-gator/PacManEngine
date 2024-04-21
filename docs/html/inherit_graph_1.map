@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$struct_component.html" title="Represents an object that can be attached to GameEntities to add behavior." alt="" coords="5,129,94,155"/>
+<area shape="rect" id="Node000001" href="$struct_collider.html" title="A Component that handles collision itself and other Colliders." alt="" coords="166,5,232,31"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="67,115,99,77,140,40,164,27,167,31,143,44,102,81,71,119"/>
+<area shape="rect" id="Node000002" href="$struct_ghost.html" title="A Component that handles all unique logic for a Ghost in Pac Man." alt="" coords="171,55,227,80"/>
+<area shape="poly" id="edge6_Node000000_Node000002" title=" " alt="" coords="85,119,140,89,169,76,172,81,143,94,88,124"/>
+<area shape="rect" id="Node000003" href="$struct_player_controller.html" title="A Component that handles all unique logic for the player in Pac Man." alt="" coords="142,104,256,130"/>
+<area shape="poly" id="edge7_Node000000_Node000003" title=" " alt="" coords="108,130,141,124,142,129,109,135"/>
+<area shape="rect" id="Node000004" href="$struct_rigidbody.html" title="A Component that handles basic physics for a GameEntity, such as correcting its position after a coll..." alt="" coords="159,153,239,179"/>
+<area shape="poly" id="edge8_Node000000_Node000004" title=" " alt="" coords="109,149,159,157,158,162,109,154"/>
+<area shape="rect" id="Node000005" href="$struct_sprite_renderer.html" title="A Component for rendering sprites by loading textures." alt="" coords="145,203,253,228"/>
+<area shape="poly" id="edge9_Node000000_Node000005" title=" " alt="" coords="88,160,143,189,166,200,164,204,140,194,86,165"/>
+<area shape="rect" id="Node000006" href="$struct_transform.html" title="A Component that controls the position in world space of a GameEntity." alt="" coords="159,252,239,278"/>
+<area shape="poly" id="edge10_Node000000_Node000006" title=" " alt="" coords="72,166,103,203,143,239,162,249,159,254,140,243,99,207,67,170"/>
+</map>

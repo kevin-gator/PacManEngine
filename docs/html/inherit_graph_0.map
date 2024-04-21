@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$struct_application.html" title="Represents an SDL&#45;based application with a single window." alt="" coords="5,31,91,56"/>
+<area shape="rect" id="Node000001" href="$struct_g_u_i_application.html" title="Represents an Application with support for basic GUI operations like rendering images and processing ..." alt="" coords="144,5,254,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="105,31,144,25,144,30,106,36"/>
+<area shape="rect" id="Node000003" href="$struct_game_application.html" title="Represents an Application that displays Scenes." alt="" coords="139,55,259,80"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="106,50,139,55,138,61,106,55"/>
+<area shape="rect" id="Node000002" href="$struct_pac_man_editor.html" title="Represents an Application that is used for loading, saving, and editing PacMan levels." alt="" coords="308,5,411,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="269,16,307,16,307,21,269,21"/>
+<area shape="rect" id="Node000004" href="$struct_pac_man_game.html" title="Represents a GameApplication that runs a game of Pac Man." alt="" coords="307,55,411,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="275,65,307,65,307,70,275,70"/>
+</map>

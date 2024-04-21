@@ -1,0 +1,5 @@
+<map id="PlayerController" name="PlayerController">
+<area shape="rect" id="Node000001" title="A Component that handles all unique logic for the player in Pac Man." alt="" coords="5,79,120,105"/>
+<area shape="rect" id="Node000002" href="$struct_component.html" title="Represents an object that can be attached to GameEntities to add behavior." alt="" coords="18,5,107,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,46,65,79,60,79,60,46"/>
+</map>
